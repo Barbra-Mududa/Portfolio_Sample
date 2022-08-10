@@ -1,0 +1,16 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    /* margin: 0; */
+    
+    background-image: url(/Assets/Images/Rectangle\ 1.jpg);
+
+}
+nav {
+    background-color: rgb(217, 217, 217);
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Anton', sans-serif;
+}
