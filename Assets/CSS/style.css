@@ -93,14 +93,14 @@ nav {
 }
 .subscribe > input {
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
     align-items: center;
     margin-left: 650px;
     width: 400px;
 }
 .subscribe > .button {
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
     background-color: #800020;
     font-weight: 700;
     font-size: large;
