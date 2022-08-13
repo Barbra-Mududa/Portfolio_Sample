@@ -77,3 +77,20 @@ nav {
     padding: 15px;
     background-color: #800020;
 }
+.firstFooter{
+    width: 100%;
+    background-color: rgb(217, 217, 217);
+    color: black; 
+}
+.newsLetter h3{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.subscribe > input {
+    border-radius: 20px;
+    padding: 10px;
+    align-items: center;
+    margin-left: 650px;
+    width: 400px;
+}
