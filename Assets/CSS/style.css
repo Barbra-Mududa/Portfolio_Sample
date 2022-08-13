@@ -76,16 +76,20 @@ nav {
 #btn {
     padding: 15px;
     background-color: #800020;
+    font-weight: 900;
+    font-size: large;
+    border-radius: 20px;
 }
 .firstFooter{
     width: 100%;
-    background-color: rgb(217, 217, 217);
+    background-color: #9a9090;
     color: black; 
+    padding: 20px;
 }
 .newsLetter h3{
     text-align: center;
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .subscribe > input {
     border-radius: 20px;
@@ -93,4 +97,26 @@ nav {
     align-items: center;
     margin-left: 650px;
     width: 400px;
+}
+.subscribe > .button {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #800020;
+    font-weight: 700;
+    font-size: large;
+}
+.color {
+    background-color: grey;
+    width: 100%;
+}
+.copyright {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 700px;
+}
+.copyright h3 {
+    padding: 10px;
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
 }
