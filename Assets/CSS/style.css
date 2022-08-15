@@ -120,3 +120,9 @@ nav {
     font-weight: 900;
     text-align: center;
 }
+.contact {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+
