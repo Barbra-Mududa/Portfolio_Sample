@@ -44,11 +44,12 @@ nav {
     color: #800020;
 }
 #profile {
-    background-image: url(/Assets/Images/Rectangle\ 3.jpg);
+    /* background-image: url(/Assets/Images/Rectangle\ 3.jpg); */
     background-repeat: no-repeat;
     background-position: right;
     height: 200px;
-    margin-right: 280px;
+    margin-right: 290px;
+    float: right;
 }
 .message{
     margin-left: 350px;
